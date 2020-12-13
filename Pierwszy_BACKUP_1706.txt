@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Zmiana na master
+=======
+Zmiana na nowy
+>>>>>>> 5b5c145 (Zmiana na nowy)
