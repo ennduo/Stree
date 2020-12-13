@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Zmiana na nowy
-=======
-Zmiana na master
->>>>>>> master
